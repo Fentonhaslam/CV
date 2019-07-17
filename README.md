@@ -1,6 +1,6 @@
 ## Fenton Haslam
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+MSc in Quantum Encryption and its business applications and a passion for technology application in the everchanging volatile world. I am product focused individual with a tech background with ambitions to leave a positive dent in society. 
 
 ## Skills
 
