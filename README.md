@@ -1,6 +1,6 @@
 ## Fenton Haslam
 
-MSc in Quantum Encryption and its business applications and a passion for technology application in the everchanging volatile world. I am product focused individual with a tech background with ambitions to leave a positive dent in society. 
+MSc in Quantum Encryption and its business applications and a passion for technology application in the everchanging volatile world. I am product focused individual with a tech background with ambitions to use Big Data and technology for long term utilitous applications. 
 
 ## Skills
 
