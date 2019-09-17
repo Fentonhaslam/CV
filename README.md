@@ -1,9 +1,10 @@
 ## Fenton Haslam
 
-MSc in Quantum Encryption and its business applications and a passion for technology application in the everchanging volatile world. I am product focused individual with a tech background with ambitions to use Big Data and upcoming technology for long term utilitous applications. 
+MSc in Quantum Encryption and its business applications, a strong passion for technology application in the everchanging volatile world. I am product focused individual with a tech background with ambitions to use Big Data and upcoming technology for long term utilitous applications. 
 
 ## Skills
 
+I have skills in a number of areas 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### This Skill
