@@ -1,4 +1,20 @@
-## Fenton Haslam
+<h1 align="center">Fenton Haslam</h1>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/fenton-haslam-8764b69b/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+
+<div align="center">
+    
+[Background ](#background) | 
+[Projects ](#projects) | 
+[Skills ](#skills) | 
+[Experience ](#experience) | 
+[Education ](#education) | 
+[Interests ](#interests)
+
+</div>
+
 
 MSc in Quantum Encryption and its business applications, a strong passion for technology application in the everchanging volatile world. I am product focused individual with a tech background with ambitions to use Big Data and upcoming technology for long term utilitous applications. 
 
