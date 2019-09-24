@@ -44,7 +44,7 @@ Graduating from University in 2018, I moved to London in search for a job within
 
 **Sweatcoin** (London, England): September 2018 - May 2019    
 *Business Development and J. Product manager*  
-- Primary role is to manage the Northern European market including the NORDS, Benelux and DACH markets. Vendor Acquisition within these selected markets. Manage new and current partner relationships. Daily roles also include product management, growth hacking and optimisation of daily processes. Key relevance to software - analysed dataset and improved conversion algorithm with basic K-means Machine learning technique. 
+Primary role is to manage the Northern European market including the NORDS, Benelux and DACH markets. Vendor Acquisition within these selected markets. Manage new and current partner relationships. Daily roles also include product management, growth hacking and optimisation of daily processes. Key relevance to software - analysed dataset and improved conversion algorithm with basic K-means Machine learning technique. 
 
 **Dow Chemical** (Tarragona, Spain) July 2015 - June 2016
 *Research and Development Water Engineer*  
