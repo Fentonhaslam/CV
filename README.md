@@ -13,7 +13,7 @@
 
 </div>
 
-Recent graduate of [Makers](https://makers.tech/), I'm a **full-stack Software Engineer** with a love for elegant and innovative products. An undergraduate in Chemical engineering and a Masters in Quantum encryption and it's business implications, and a wide unconventional job history. Leading me to the path of coding that has allowed me to hone skills I need to turn curiosity and creativity into a disciplined, deliberate process for building Software. I am product focused individual with ambitions to use Big Data and upcoming technology for long term practical applications.
+Recent graduate of [Makers](https://makers.tech/), I'm a **full-stack Software Engineer** with a love for elegant and innovative products. An undergraduate in Chemical engineering and a Masters in Quantum encryption and it's business implications, and a wide unconventional job history. Leading me to the path of coding that has allowed me to hone skills I need to turn curiosity and creativity into a disciplined, deliberate process for building Software. I am a product focused individual with ambitions to use Big Data and upcoming technology for long term practical applications.
  
 # Background
 
