@@ -25,7 +25,7 @@ Graduating from University in 2018, I moved to London in search for a job within
 | <a href="https://github.com/kiahjade/Breathe">Final Project</a>| Makers Academy final project. -- description| 8 days | ----- |
 | <a href="https://github.com/Fentonhaslam/acebook-ConnectU">ConnectU</a>| Makers project to build a Facebook clone, with the goal of achieving high quality, Agile, processes to work as a team. | 9 days | Ruby on Rails, Travis-CI, Heroku  |
 | <a href="https://github.com/Fentonhaslam/MakersBnB">MakersBnB</a>| A group work to re-create Airbnb. A space where users can upload a space and view other spaces and request to book them. My aim here was to gain extensive knowledge on databasing and the relationships different types of data can have with each other. | 4 days | Ruby, HTML, SQL |
-| <a href="https://lokals.co.uk/"> Lokals </a> | A project I have been working on since 2017, due to my learnings and failures the idea has turned into a tournaments platform, with the underlying goal of getting individuals to play more sport regularly. A vision to use sport to reduce mental illness and gamify grassroots sport.  | ~2 years | React, HTML, Firebase |
+| <a href="https://lokals.co.uk/"> Lokals </a> | A project I have been working on since 2017, due to my learnings, failures and successes the idea has turned into a tournaments platform, with the underlying goal of getting individuals to play more sport regularly. A vision to use sport to reduce mental illness and gamify grassroots sport.  | ~2 years | React, HTML, Firebase |
 
 # Experience
 **Makers Academy** (July 2019 - October 2019)
