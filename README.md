@@ -7,7 +7,6 @@
     
 [Background ](#background) | 
 [Projects ](#projects) | 
-[Skills ](#skills) | 
 [Experience ](#experience) | 
 [Education ](#education) | 
 [Interests ](#interests)
@@ -26,56 +25,58 @@ Graduating from University in 2018, I moved to London in search for a job within
 | <a href="https://github.com/kiahjade/Breathe">Final Project</a>| Makers Academy final project. -- description| 8 days | ----- |
 | <a href="https://github.com/Fentonhaslam/acebook-ConnectU">ConnectU</a>| Makers project to build a Facebook clone, with the goal of achieving high quality, Agile, processes to work as a team. | 9 days | Ruby on Rails, Travis-CI, Heroku  |
 | <a href="https://github.com/Fentonhaslam/MakersBnB">MakersBnB</a>| A group work to re-create Airbnb. A space where users can upload a space and view other spaces and request to book them. My aim here was to gain extensive knowledge on databasing and the relationships different types of data can have with each other. | 4 days | Ruby, HTML, SQL |
+| <a href="https://lokals.co.uk/"> Lokals </a> | A project I have been working on since 2017, due to my learnings and failures the idea has turned into a tournaments platform, with the underlying goal of getting individuals to play more sport regularly. A vision to use sport to reduce mental illness and gamify grassroots sport.  | ~2 years | React, HTML, Firebase |
 
-## Skills
+# Experience
+**Makers Academy** (July 2019 - October 2019)
+<br>*Coding Bootcamp*
+<br>
+* Ruby, JavaScript, Rails, SQL/Postgres
+* HTML & CSS
+* RSpec, Jasmine, Capybara, Jest
+* Travis CI & Heroku
+* OOP, TDD & CICD
+* Git workflow
+* TDD
+* Code reviews
+* Problem Solving
+* Agile ways of working & pair programming
 
-I have skills in a number of areas 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+**Sweatcoin** (London, England): September 2018 - May 2019    
+*Business Development and J. Product manager*  
+- Primary role is to manage the Northern European market including the NORDS, Benelux and DACH markets. Vendor Acquisition within these selected markets. Manage new and current partner relationships. Daily roles also include product management, growth hacking and optimisation of daily processes. Key relevance to software - analysed dataset and improved conversion algorithm with basic K-means Machine learning technique. 
 
-#### This Skill
+**Dow Chemical** (Tarragona, Spain) July 2015 - June 2016
+*Research and Development Water Engineer*  
+Work involved in an office or laboratory analysing processes and conducting experiments, creating macros for large datasets. 
+Responsible of the design of experiments to create solutions for water customers as well as validation and test of new products and process optimization.
 
-- Experience
-- Achievements
-- Evidence
+# Education
 
-#### Another Skill
+#### Makers Academy (July 2019 - October 2019)
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Learning, honing and maintaining best practices for coding (e.g. TDD, XP Values, Agile approach)
+    - Languages: Ruby, JavaScript (and jQuery), HTML/CSS
+    - Web Frameworks: Sinatra, Ruby on Rails, node.js
+    - Databases: PostgreSQL
+    - Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Jest
+    - CI/CD: Travis CI, CodeClimate, Heroku
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### University of Leeds (September 2017 - September 2018)
 
-## Education
+- MSc Engineering Technology and Business Management, Quantum Key Distribution and Information
+- Distinction
+- Languages: C++ (Programming module) 
+- Won the University of Leeds Business competition 
 
-#### Makers Academy (start_date to end_date)
+### Aston University (September 2013 - May 2017)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- BSc. (Hons) Chemical Engineering - 1st obtained
+- Industrial placement year abroad with no previous knowledge of water industry or Spanish. Learned fundementals of both subjects and left with great experience of working culture.
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+# Interests
 
-#### Any other qualifications
+* Exercise - Running! Massive advocate for running to improve mental wellbeing, and improving cognitive function! I love Yoga
+* Music - I host events in South and East London [Defunct](https://www.facebook.com/DefunctDiscs/) - Bridging the feel good vibes of Disco & House to the innovative and furturistic Electro & Techno.
 
-That in some arguable way make you a better software developer or well-rounded person
-
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
-
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
